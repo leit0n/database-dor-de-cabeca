@@ -1,7 +1,7 @@
 #include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
+#include <fstream> // manipular ficheiros
+#include <sstream> //classes em strings
+#include <string>  // manipular strings
 
 using namespace std;
 
